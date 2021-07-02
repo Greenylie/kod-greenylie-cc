@@ -4,6 +4,11 @@
       "year":"2021",
       "tmdb_id":"110545",
       "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/series/drama/so_not_worth_it-s1.json"
-    } 
+    },
+    { "title":"Flower of Evil",
+      "year":"2020",
+      "tmdb_id":"99494",
+      "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/series/drama/flower_of_evil-s1.json"
+    }
   ]
 }
