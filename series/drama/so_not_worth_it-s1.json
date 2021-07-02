@@ -1,0 +1,124 @@
+{
+"episodes_list": [
+    {
+       "number": "1x01",
+       "title": "Episodio 1",
+       "links": [
+           {
+           "url": "https://pixeldrain.com/api/file/otf8usbw?download",
+           "quality": "FHD"
+           }
+        ]
+    },
+    {
+       "number": "1x02",
+       "title": "Episodio 2",
+       "links": [
+           {
+           "url": "https://pixeldrain.com/api/file/XRSvB8Ly?download",
+           "quality": "FHD"
+           }
+        ]
+    },
+    {
+       "number": "1x03",
+       "title": "Episodio 3",
+       "links": [
+           {
+           "url": "https://pixeldrain.com/api/file/P3VxCrZD?download",
+           "quality": "FHD"
+           }
+        ]
+    },
+    {
+       "number": "1x04",
+       "title": "Episodio 4",
+       "links": [
+           {
+           "url": "https://pixeldrain.com/api/file/jJVwPT8c?download",
+           "quality": "FHD"
+           }
+        ]
+    },
+    {
+       "number": "1x05",
+       "title": "Episodio 5",
+       "links": [
+           {
+           "url": "https://pixeldrain.com/api/file/MVnrjwz8?download",
+           "quality": "FHD"
+           }
+        ]
+    },
+    {
+       "number": "1x06",
+       "title": "Episodio 6",
+       "links": [
+           {
+           "url": "https://pixeldrain.com/api/file/sMfQn3EK?download",
+           "quality": "FHD"
+           }
+        ]
+    },
+    {
+       "number": "1x07",
+       "title": "Episodio 7",
+       "links": [
+           {
+           "url": "https://pixeldrain.com/api/file/HEdyas6s?download",
+           "quality": "FHD"
+           }
+        ]
+    },
+    {
+       "number": "1x08",
+       "title": "Episodio 8",
+       "links": [
+           {
+           "url": "https://pixeldrain.com/api/file/QjRtrDtb?download",
+           "quality": "FHD"
+           }
+        ]
+    },
+    {
+       "number": "1x09",
+       "title": "Episodio 9",
+       "links": [
+           {
+           "url": "https://pixeldrain.com/api/file/HLHkmQ6N?download",
+           "quality": "FHD"
+           }
+        ]
+    },
+    {
+       "number": "1x10",
+       "title": "Episodio 10",
+       "links": [
+           {
+           "url": "https://pixeldrain.com/api/file/g64CRsZf?download",
+           "quality": "FHD"
+           }
+        ]
+    },
+    {
+       "number": "1x11",
+       "title": "Episodio 11",
+       "links": [
+           {
+           "url": "https://pixeldrain.com/api/file/Q6RnUsP4?download",
+           "quality": "FHD"
+           }
+        ]
+    },
+    {
+       "number": "1x12",
+       "title": "Episodio 12",
+       "links": [
+           {
+           "url": "https://pixeldrain.com/api/file/Yu5VvU9h?download",
+           "quality": "FHD"
+           }
+        ]
+    }
+  ]
+}
