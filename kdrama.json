@@ -1,0 +1,19 @@
+{
+  "tvshows_list": [
+    { "title":"So Not Worth It",
+      "year":"2021",
+      "tmdb_id":"110545",
+      "episodes_list": [
+    {
+       "number": "1x01",
+       "title": "",
+       "links": [
+           {
+            "url": "https://uptobox.com/ph4o4lnjxkq8"
+           }
+        ]
+    }
+  ]
+    } 
+  ]
+}
