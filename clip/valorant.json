@@ -2,20 +2,11 @@
   "menu":[
     {
       "title": "2020",
-      
+      "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/clip/valorant/2020.json"
     },
     {
       "title": "2021",
-      "movies_list":  [
-        {
-          "title": "La mia prima ACE",
-          "links": [
-          {
-            "url": "https://mega.nz/file/VE5kDZaZ#ecIEetSgrPB1OHC6yXb09jQpbAsJN7vNeCW4JbhtLaI"
-          }
-          ]
-        }
-        ]
+      "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/clip/valorant/2021.json"
     } 
   ]  
 }  
