@@ -15,7 +15,7 @@
        "title": "Episodio 2",
        "links": [
            {
-           "url": "https://drive.google.com/uc?export=download&id=1SEYOARGcfzK2z0ZWmEbmihwBMneyc5OB",
+           "url": "https://www.googleapis.com/drive/v3/files/1SEYOARGcfzK2z0ZWmEbmihwBMneyc5OB?alt=media&key=AIzaSyB5ywHsfSRiekRYmBM1G1fxmEq0iqK5JpA",
            "quality": "720"
            }
         ]
