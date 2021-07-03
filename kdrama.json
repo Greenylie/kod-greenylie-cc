@@ -9,6 +9,11 @@
       "year":"2020",
       "tmdb_id":"99494",
       "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/series/drama/flower_of_evil-s1.json"
+    },
+    { "title":"What's Wrong With Secretary Kim",
+      "year":"2018",
+      "tmdb_id":"79434",
+      "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/series/drama/secretary_kim-s1.json"
     }
   ]
 }
