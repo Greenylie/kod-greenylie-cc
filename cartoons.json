@@ -1,0 +1,9 @@
+{
+  "tvshows_list": [
+    { "title":"Ben 10 Classic",
+      "year":"2005",
+      "tmdb_id":"4686",
+      "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/series/cartoons/ben_10_classic.json"
+    }
+  ]
+}
