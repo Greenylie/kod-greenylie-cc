@@ -1,9 +1,16 @@
 {
-  "tvshows_list": [
-    { "title":"Ben 10 Classic",
-      "year":"2005",
-      "tmdb_id":"4686",
-      "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/series/cartoons/ben_10_classic.json"
-    }
-  ]
+	"tvshows_list": [
+		{ 
+			"title":"Ben 10 Classic",
+			"year":"2005",
+			"tmdb_id":"4686",
+			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/ben_10_classic.json"
+    	},
+		{
+			"title": "Ben 10 Alien Force",
+			"year": "2008",
+			"tmdb_id": "6040",
+			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/ben_10_alien_force.json"
+		}
+  	]
 }
