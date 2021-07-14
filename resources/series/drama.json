@@ -14,6 +14,12 @@
       "year":"2018",
       "tmdb_id":"79434",
       "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/drama/secretary_kim.json"
+    },
+    {
+        "title": "Remember - War of the Son",
+        "year": "2015",
+        "tmdb_id": "64487",
+        "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/drama/remember_war_of_the_son.json"
     }
   ]
 }
