@@ -11,6 +11,12 @@
 			"year": "2008",
 			"tmdb_id": "6040",
 			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/ben_10_alien_force.json"
+		},
+		{
+			"title": "Ben 10: Ultimate Alien",
+			"year": "2010",
+			"tmdb_id": "31109",
+			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/ben_10_ultimate_alien.json"
 		}
   	]
 }
