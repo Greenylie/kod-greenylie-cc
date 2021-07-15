@@ -1,0 +1,130 @@
+{
+    "episodes_list": [
+        {
+            "number": "1x1",
+            "title": "Episodio 1",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=HYnaWlbunSU",
+                    "quality": "Parte 1"
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=4kCIk-jLW_M",
+                    "quality": "Parte 2"
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=bYx4y6OJZao",
+                    "quality": "Parte 3"
+                }
+            ]
+        },
+        {
+            "number": "1x2",
+            "title": "Episodio 2",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=dS-pHRm0a9c"
+                }
+            ]
+        },
+        {
+            "number": "1x3",
+            "title": "Episodio 3",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=t9P-qf2Ph1U"
+                }
+            ]
+        },
+        {
+            "number": "1x4",
+            "title": "Episodio 4",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=6fLVkB18R8Q"
+                }
+            ]
+        },
+        {
+            "number": "1x5",
+            "title": "Episodio 5",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=E1_mBXW2eYU"
+                }
+            ]
+        },
+        {
+            "number": "1x6",
+            "title": "Episodio 6",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=8ugxjgcX4PY"
+                }
+            ]
+        },
+        {
+            "number": "1x7",
+            "title": "Episodio 7",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=pBznL5w6Im4"
+                }
+            ]
+        },
+        {
+            "number": "1x8",
+            "title": "Episodio 8",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=wB3hQnem7Bw"
+                }
+            ]
+        },
+        {
+            "number": "1x9",
+            "title": "Episodio 9",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=2zVW1096wRM"
+                }
+            ]
+        },
+        {
+            "number": "1x10",
+            "title": "Episodio 10",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=tNAGzC66Vuw"
+                }
+            ]
+        },
+        {
+            "number": "1x11",
+            "title": "Episodio 11",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=4gb4z-UKUxU"
+                }
+            ]
+        },
+        {
+            "number": "1x12",
+            "title": "Episodio 12",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=SO14tpkmZQU"
+                }
+            ]
+        },
+        {
+            "number": "1x13",
+            "title": "Episodio 13",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=zTjgxMFsEQg"
+                }
+            ]
+        }
+    ]
+}

@@ -23,6 +23,48 @@
 			"year": "2012",
 			"tmdb_id": "46922",
 			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/ben_10_omniverse.json"
+		},
+		{
+			"title": "A Tutto Reality: L'isola",
+			"year": "2007",
+			"tmdb_id": "6618",
+			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/total_drama_island.json"
+		},
+		{
+			"title": "A Tutto Reality: Azione",
+			"year": "2009",
+			"tmdb_id": "8616",
+			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/total_drama_action.json"
+		},
+		{
+			"title": "A Tutto Reality: Il tour",
+			"year": "2010",
+			"tmdb_id": "19123",
+			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/total_drama_tour.json"
+		},
+		{
+			"title": "A Tutto Reality: La vendetta dell'Isola",
+			"year": "2012",
+			"tmdb_id": "33507",
+			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/total_drama_revenge.json"
+		},
+		{
+			"title": "A Tutto Reality: All-Stars e Pahkitew Island",
+			"year": "2014",
+			"tmdb_id": "75868",
+			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/total_drama_all_stars.json"
+		},
+		{
+			"title": "A Tutto Reality Presenta: Missione Cosmo Ridicola",
+			"year": "2015",
+			"tmdb_id": "67082",
+			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/total_drama_cosmo.json"
+		},
+		{
+			"title": "A Tutto Reality: Le origini",
+			"year": "2018",
+			"tmdb_id": "88069",
+			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/total_dramarama.json"
 		}
   	]
 }
