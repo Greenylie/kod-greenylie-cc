@@ -25,6 +25,12 @@
 			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/ben_10_omniverse.json"
 		},
 		{
+			"title": "Ben 10 Reboot",
+			"year": "2016",
+			"tmdb_id": "68295",
+			"link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/cartoons/ben_10_reboot.json"
+		},
+		{
 			"title": "A Tutto Reality: L'isola",
 			"year": "2007",
 			"tmdb_id": "6618",
