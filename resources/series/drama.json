@@ -20,6 +20,12 @@
         "year": "2015",
         "tmdb_id": "64487",
         "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/drama/remember_war_of_the_son.json"
+    },
+    {
+        "title": "Squid Game",
+        "year": "2021",
+        "tmdb_id": "93405",
+        "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/squid_game.json"
     }
   ]
 }
