@@ -1,14 +1,26 @@
 {
   "tvshows_list": [
-    { "title":"So Not Worth It",
-      "year":"2021",
-      "tmdb_id":"110545",
-      "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/drama/so_not_worth_it.json"
+    {
+        "title": "Itaewon Class",
+        "year": "2020",
+        "tmdb_id": "96162",
+        "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/drama/itaewon_class.json"
+    },
+    {
+      "title": "Squid Game",
+      "year": "2021",
+      "tmdb_id": "93405",
+      "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/drama/squid_game.json"
     },
     { "title":"Flower of Evil",
       "year":"2020",
       "tmdb_id":"99494",
       "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/drama/flower_of_evil.json"
+    },
+    { "title":"So Not Worth It",
+      "year":"2021",
+      "tmdb_id":"110545",
+      "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/drama/so_not_worth_it.json"
     },
     { "title":"What's Wrong With Secretary Kim",
       "year":"2018",
@@ -20,12 +32,6 @@
         "year": "2015",
         "tmdb_id": "64487",
         "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/drama/remember_war_of_the_son.json"
-    },
-    {
-        "title": "Squid Game",
-        "year": "2021",
-        "tmdb_id": "93405",
-        "link": "https://raw.githubusercontent.com/Greenylie/kod-greenylie-cc/main/resources/series/drama/squid_game.json"
     }
   ]
 }
